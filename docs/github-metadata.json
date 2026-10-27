@@ -1,0 +1,15 @@
+{
+  "name": "bank-marketing-ml-monitoring",
+  "description": "Predicting term-deposit subscriptions with interpretable models, leakage-aware evaluation and synthetic data-drift diagnostics.",
+  "topics": [
+    "machine-learning",
+    "bank-marketing",
+    "scikit-learn",
+    "classification",
+    "explainable-ai",
+    "data-drift",
+    "shap",
+    "python"
+  ],
+  "visibility": "public"
+}
